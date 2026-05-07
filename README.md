@@ -1,12 +1,12 @@
 # DL-Spring-2026-Pixels-to-Predictions-DL-Vision-Challenge
-This repository contains one notebook, including training, validation, and inference pipelines for the final competition.
+This repository contains one notebook, including training, validation, and inference pipelines for fine-tuning `HuggingFaceTB/SmolVLM-500M-Instruct` with LoRA.
 
 ## Files:
 - `0501_first_fixed.ipynb`: notebook for training, validation, and inference pipeline
 
 ## Important Note:
 - For the notebook, please run the "first block" first to install the required package and restart the notebook before executing the whole notebook.
-- Please igonore the errors in the notebook since these are used to test if the overall pipeline could be executed successfully.
+- Some intermediate cells may contain outputs from experimental trials or testing steps. The final notebook is provided to demonstrate the complete training, validation, and inference pipeline.
 - The notebook is provided to demonstrate the full training, validation, and inference pipeline.
 
 ## How to Reproduce:
