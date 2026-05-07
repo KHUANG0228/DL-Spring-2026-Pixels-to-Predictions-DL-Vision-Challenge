@@ -17,5 +17,5 @@ This repository contains one notebook, including training, validation, and infer
 4. Install the required package mentioned in Important Notes and run the training pipeline for training model, validation pipeline for validation, and inference pipeline for generating the submission file in the notebook.
 
 ## Model Weights
-- [https://drive.google.com/drive/folders/1WETSTQYQdaPD9Gdjn2ilmlVlrewitgaI?usp=drive_link](https://drive.google.com/drive/folders/1x_vcX9UIxlH7M5Fwdb8b6RshV397nCZO?usp=sharing)
-- The link above is my model weights.
+- The link is my model weights.
+https://drive.google.com/drive/folders/1x_vcX9UIxlH7M5Fwdb8b6RshV397nCZO?usp=drive_link
